@@ -1,0 +1,70 @@
+General Notes:
+	These are basic notes about Blender’s Layout and where certain things are located
+
+* ALL NOTES IN THIS DOCUMENT PERTAIN TO BLENDER 5.2.0 LTS
+   * Viewport - The large gray boxed area when you first open Blender
+   * Preferences - This allows you to change how you prefer things to look or work and allows you to add mods. 
+      * This can be found under the Edit Tab at the top of your screen
+   * Blender is natively in Metrics, but you can change it to Imperial by going to Scene -> Units -> Unit System
+
+
+Controls: 
+	This lists all key binds and menus
+
+   * Orbit - Press the scroll wheel 
+      * Allows you to rotate around an item in the Viewport
+   * Pan - Shift + Scroll wheel
+      * Allows you to move the screen left and right
+   * Zoom - Scroll up or down
+   * Focus on a Selected Object - Numpad .
+      * This allows you to jump directly to a selected item
+   * Delete - X
+      * How one deletes an object, but the delete key also works
+   * Add Object Menu - Shift + A
+      * This allows you to add an object
+      * When you add an object, an additional menu appears with more options for editing the object
+      * This menu can be reopened ONLY IF YOU HAVEN’T EDITED THE OBJECT 
+   * Additional Object Menu - F9
+   * Small Increments when resizing - Shift + scroll wheel 
+   * Shade Smooth - Right Click -> Shade Smooth
+      * Makes the mesh’s shading rounded and not flat
+   * Move An Object - G + An Axis
+      * You can move things according to the axis you want 
+   * X -> Left and Right
+   * Y -> Forwards and Backwards
+   * Z -> Up and Down
+   * Rotate an Object - R
+   * Scale an Object - S
+   * Edit Mode - Tab
+      * This mode gives you the ability to add loop cuts, mess with vertices, and actually model a specific object
+   * Select Vertices in Edit Mode - 1 (Not Numb Pad)
+   * Select Edges in Edit Mode - 2 (Not Numb Pad)
+   * Select Faces in Edit Mode - 3 (Not Numb Pad)
+   * Loop Cut - Control + R
+      * This allows you to add in more harsh lines/geometry 
+      * Loop cuts allow us to tighten up corners and edges when we use the Subdivision Modifier 
+   * Inset - I
+      * This allows you to add another loop on a singular face because you cannot loop cut a single face by itself 
+   * Save File - Control + S 
+      * DO THIS FREQUENTLY! Blender is known to crash and have issues, but if you save, you can use the save as a backup in case you use a destructive action and need to reverse it.
+      * It is a good idea to create duplicates of your models, so you have backup versions in case you destroy the mesh of one too much to fix
+   * Duplicate - Shift + D
+      * Duplicate in Object mode, as doing it in Edit mode can have unsuccessful results
+
+
+Terminology: 
+	This is to explain some terminology that may be confusing/new to Blender beginners
+   * Vertices -  These are the points that create/make up an object; these can be seen and edited in Edit mode
+   * Edges -  These are like vertices, but they show how the vertices connect
+   * Faces - The individual edges create these, and these are where your textures will be seen and what your light reflects off of
+   * Non-Destructive Action - These are actions that don’t change/ruin the base mesh
+   * Destructive Actions - These change the base mesh and can ruin an entire object mesh
+
+
+Modifiers:
+	These allow you to adjust and change things about your Objects
+   * Solidify - This makes the surface of an Object thicker
+   * This modifier doesn’t actually change the base mesh; it’s what we call a non-destructive action
+   * Subdivision Surface - This splits the faces of an object into smaller ones to give a more organic appearance
+
+

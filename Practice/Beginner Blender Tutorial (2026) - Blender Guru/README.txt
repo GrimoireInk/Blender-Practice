@@ -1,0 +1,43 @@
+# Practice 1: Beginner Blender Tutorial (2026) - Blender Guru
+
+## Overview
+
+- **Status:** In Progress
+- **Started:** July 19, 2026
+- **Completed:** Not completed
+- **Blender version:** 5.2
+- **Render engine:** Not applicable yet
+- **Primary skill:** Blender interface, navigation, and basic controls
+- **Learning source:** https://www.youtube.com/watch?v=z-Xl9tGqH14&t=342s
+
+## Goal
+
+Become more comfortable navigating Blender and using the basic object controls.
+
+## Techniques Practiced
+
+- Navigating the 3D viewport
+- Selecting objects
+- Moving, rotating, and scaling objects
+- Switching between Object Mode and Edit Mode
+
+## Current Progress
+
+I have started the practice exercise but have not completed it yet. This checkpoint records my current Blender file and the skills I have practiced so far.
+
+## Challenges and Solutions
+
+- **None so Far
+
+### Remembering the controls
+
+**Problem:**  
+I am still learning which shortcuts control movement, rotation, and scale.
+
+**Solution:**  
+I am recording the shortcuts as I use them and practicing them repeatedly.
+
+## What I Would Change Next Time
+
+- Continue documenting shortcuts while completing the exercise.
+- Add final observations after the practice is finished.
