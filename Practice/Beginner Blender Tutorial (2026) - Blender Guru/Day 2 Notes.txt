@@ -1,0 +1,51 @@
+General Notes:
+	These are basic notes about Blender’s Layout and where certain things are located
+
+   * When saving a file, you can click the + and - signs, and the number at the end of the file increases
+   * Use reference images! Your brain likes to filter out ‘unnecessary’ details about everyday objects
+   * You can use Shift to select multiple faces and edges at the same time
+
+
+Controls: 
+This lists all keybinds and menus
+
+   * Clear Rotation - Alt + R
+      * This allows you to revert rotational changes to the original state it should spawn in at
+      * When rotating, you can hold Control to rotate in 5-degree increments 
+   * Front View - Numpad 1
+   * Side View - Numpad 3
+   * Top View - Numpad 7
+   * Select all (In Edit Mode) - Alt + Left Click
+      * This selects all edges/vertices that are connected in a loop
+   * Slide Edge - Double-click G when editing an edge
+   * Extrude - E 
+      * This allows you to add or pull faces to create a shape or extension of an object
+      * Another way to Extrude is Control + Right Click
+   * Clear Normals - Shift + N
+   * Viewport Shading - Hold Z 
+      * Alt Z works too
+   * Create a Face - F
+      * You select multiple points or edges, then click F
+   * Rename an Object - Go to the upper menu and double-click the name of the object
+      * You can also click F2 in the viewport
+
+
+Terminology: 
+	This is to explain some terminology that may be confusing/new to Blender beginners
+
+   * Normals - the X, Y, Z axes that affect how your object faces and extrudes 
+
+
+Modifiers:
+	These allow you to adjust and change things about your Objects
+
+   * To make a modifier actually a part of the geometry of your object, you must apply it
+      * To apply, go to the modifiers tab -> find the drop-down menu next to the camera button -> click apply
+
+
+Issues:
+	This is in case I run into any issues along the way
+
+   * I had to completely redo my model because I had extra cuts/edges that shouldn’t be there
+      * Dissolving wasn’t working, nor was merging, and when I tried to delete them, it affected the geometry
+   * I ran into more issues with excess edges, but I was able to dissolve these this time
