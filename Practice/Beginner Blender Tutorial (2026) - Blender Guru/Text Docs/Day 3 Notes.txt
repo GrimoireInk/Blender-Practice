@@ -1,0 +1,72 @@
+General Notes:
+	These are basic notes about Blender’s Layout and where certain things are located
+
+   * Clicking W while in Edit Mode will cycle through the different selection tools
+   * When using modifiers, your order matters; if something looks off, try reordering the modifiers
+   * At the top of Blender, you have multiple layouts like Sculpting
+
+
+Controls: 
+	This lists all key binds and menus
+
+   * Duplicate an Object - Shift + D
+   * Cancel Placement - Escape or Right Click
+   * Proportional Editing - O
+   * Change Proportional Falloff - Scroll up or down when moving a mesh
+   * In extrude mode, you can click S to scale outwards/inwards your extrusion instead of up or down
+   * Crease - Shift + E
+   * Hide an Object - H
+   * Unhide an Object - Alt + H
+   * Render - F12
+   * Camera View - Numpad 0
+   * View Last Render - F11
+      * You can compare Renders by switching slots
+   * Cycle Render Slots - J
+   * Mar Seam - Control + E
+   * Select Linked Menu - Select a Vertex, then click L, then look for the menu in the bottom left
+   * Toggle Isolated View - /
+
+
+Terminology: 
+	This is to explain some terminology that may be confusing/new to Blender beginners
+
+   * Render/Rendering - This is when your computer calculates and shows all of the colors, lights, and particles in a Blender scene
+
+
+Modifiers:
+	These allow you to adjust and change things about your Objects
+
+   * Shrinkwrap - Deform -> Shrinkwrap
+      * This sticks things that might be sticking off of your object and sticks them to it
+   * Lattice - Click two objects, then use Shift + A to add in a Lattice Deform
+      * This allows you to deform and manipulate both objects at the same time
+
+
+Sculpting Mode:
+	These are things specific to this menu in Blender
+
+   * Change Brush Size - F
+   * Inflate/Deflate - This can inflate certain areas of the mesh
+   * Grab - allows you to grab and move parts of the mesh
+
+
+Materials/Textures:
+	This is for any texture/material related things, including nodes
+
+   * To add an image texture, create a new material, then click the yellow dot next to the base color
+      * If the image goes pink, make sure it says single image and not UDM
+      * Poliigon
+   * You can do more advanced texture/material work in the Shading tab
+   * You can change the lighting in the Material Preview by clicking the drop-down arrow at the end of the Viewport Shading modes
+   * UV Mapping - Select an Object -> Enter Edit Mode -> Select All -> Click U -> Select Unwrap Angle Based
+ 	
+
+Issues:
+	This is in case I run into any issues along the way
+
+   * I ran into more issues with extra vertices and edges, but I realized if I selected everything (A) then clicked M I could merge everything by distance and remove the extras 
+      * I did have a pair of extra vertices that I had to delete by hand
+
+
+
+
