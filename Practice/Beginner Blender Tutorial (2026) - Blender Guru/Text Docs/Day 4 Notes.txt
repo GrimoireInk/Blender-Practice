@@ -1,0 +1,36 @@
+General Notes:
+	These are basic notes about Blender’s Layout and where certain things are located
+
+   + Mio3 UV Add-On
+
+
+Controls: 
+	This lists all keybinds and menus
+
+   * Separate Selected Parts - P
+   * Add a New Collection - Right-click under your objects in the top right box
+   * Move to a Collection - M
+   * Link Data - Control + L
+
+
+Terminology: 
+	This is to explain some terminology that may be confusing/new to Blender beginners
+
+   * Origin Point - Center of mass for an object
+
+
+Materials/Textures:
+	This is for any texture/material related things, including nodes
+
+   * Delete with Connect - Control + X
+   * Mute a Node - M
+
+
+Issues:
+	This is in case I run into any issues along the way
+
+   * I used Mio3 UV to gridify some of my UV mesh; it ended up not working correctly, so I had to place the mesh by hand
+      * It did work correctly on the handle of the mug, though
+
+
+
