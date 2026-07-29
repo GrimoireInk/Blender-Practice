@@ -1,0 +1,34 @@
+General Notes:
+	These are basic notes about Blender’s Layout and where certain things are located
+
+   * In Color Management for Eevee, select High or Medium High Contrast
+
+
+Controls: 
+	This lists all keybinds and menus
+
+   * Continuous Duplicates - Shift + R AFTER duplicating once
+   * Parent Objects - Control + P
+   * Move an Object while Locked to Two Axis - G + Shift + X/Y/Z
+   * Batch Rename Objects - Control + F2
+   * Reset to Default - Backspace
+   * Draw a Render Region - Control + B
+
+
+Materials/Textures:
+	This is for any texture/material related things, including nodes
+
+   * Object Info Node - Gives info about the object's instance 
+
+
+Issues:
+	This is in case I run into any issues along the way
+
+   * I do have some black cross-hatching that occurs on my frosting when I move around in Material or Rendered Mode
+      * I haven’t found a solution yet
+      * I found it! The material used is from Polligon, the scale had to be readjusted to a lower value
+
+
+
+
+
